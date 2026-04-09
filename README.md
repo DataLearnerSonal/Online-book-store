@@ -12,37 +12,56 @@ Orders
 The project covers:
 
 Database creation and schema design
+
 Data manipulation and transformation
+
 Writing queries to solve real-world business problems
+
 🛠️ Tools & Technologies
 SQL (PostgreSQL)
+
 Database Design
+
 Data Analysis Concepts
+
 📊 Key Features & Queries
 
 ✔️ Basic Queries:
 
 Filter books by genre and publication year
+
 Retrieve customer details by country
+
 Analyze orders by date
+
 Calculate total stock and revenue
 
 ✔️ Intermediate Queries:
 
 Find most expensive and lowest stock books
+
 Identify customers with multiple orders
+
 Retrieve high-value orders
 
 ✔️ Advanced Analysis:
 
 Total books sold per genre
+
 Average price by category
+
 Most frequently ordered books
+
 Top customers by spending
+
 Remaining stock after fulfilling orders
 📈 Key Insights
+
 Identified best-selling books and genres
+
 Analyzed customer purchasing behavior
+
 Calculated overall revenue generation
+
 Evaluated inventory performance
 
