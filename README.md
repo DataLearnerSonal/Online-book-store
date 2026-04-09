@@ -55,6 +55,7 @@ Most frequently ordered books
 Top customers by spending
 
 Remaining stock after fulfilling orders
+
 📈 Key Insights
 
 Identified best-selling books and genres
